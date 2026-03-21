@@ -1,5 +1,11 @@
 # 💫 About Me:
-Software Developer focused on building scalable and efficient systems  <br>Experienced in developing real-world applications and solving practical problems  <br>Working with automation and AI-driven solutions to enhance workflows  <br>Continuously improving through building and learning
+Hey, I’m Yadu — a Software Developer focused on building scalable and efficient systems<br>
+I develop real-world applications and solve practical problems with clean, reliable solutions<br>
+I integrate automation and AI to make systems smarter and more efficient<br>
+<br>
+I also write stories — crafting structured narratives driven by ideas, conflict, and depth<br>
+<br>
+Always building, always learning
 
 
 ## 🌐 Socials:
