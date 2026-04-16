@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=220&section=header&text=Yadu%20Krishna&fontSize=42&fontColor=000000&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Enthusiast&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=220&section=header&text=Yadu%20Krishna&fontSize=44&fontColor=00E5FF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Builder&descAlignY=65&descSize=18" />
 </p>
 
 <!-- Typing Effect -->
