@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yadu%20Krishna&fontSize=40&fontAlignY=35&desc=Software%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;AI+%2B+Automation+Focused;Clean+Code+%7C+Real+World+Solutions;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5c02d6a5-97d0-4b59-9a47-52e5f84a6f08.gif" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 Hey, I’m Yadu — a Software Developer focused on building scalable and efficient systems<br>
 I develop real-world applications and solve practical problems with clean, reliable solutions<br>
